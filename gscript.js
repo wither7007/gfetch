@@ -1,4 +1,4 @@
-console.log("Violent Monkey basic version2.12");
+console.log("My gfetch");
 window.log = (l) => console.log(l);
 window.qa = (x) => {
     return [...document.querySelectorAll(x)];
